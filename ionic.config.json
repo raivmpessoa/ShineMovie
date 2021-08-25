@@ -1,0 +1,7 @@
+{
+  "name": "ShineMovies",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

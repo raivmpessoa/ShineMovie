@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ShineMovies",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
